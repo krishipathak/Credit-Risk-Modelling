@@ -17,9 +17,9 @@ A credit risk modeling project covering **Probability of Default (PD), Loss Give
 
 ## Project Structure
 
-- `Credit_Risk_Modeling_Preparation.ipynb` – Data preparation and preprocessing
-- `Credit_Risk_Modeling_PD_Model.ipynb` – Probability of Default model
-- `Credit_Risk_Modeling_LGD_EAD_Expected_Loss.ipynb` – LGD, EAD and Expected Loss
+- Credit_Risk_Modeling_Preparation.ipynb – Data preparation and preprocessing
+- Credit_Risk_Modeling_PD_Model.ipynb – Probability of Default model
+- Credit_Risk_Modeling_LGD_EAD_Expected_Loss.ipynb – LGD, EAD and Expected Loss
 
 ## Key Outcome
 
